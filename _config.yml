@@ -1,0 +1,28 @@
+name: Mercedes Luis Fuentes
+favicon: null
+layout_spectrum: 0.7963935201987624
+typography_spectrum: 0.9513032685499638
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.0489287527743727
+  lightness: 0.2835137185174972
+  saturation: 0.6681278832256794
+  rhythmicContrast: 0.30571350967511535
+purpose: []

@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mercedes Luis Fuentes]]></title>
         <description><![CDATA[Mercedes Luis Fuentes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mercedes-luis-fuentes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 09:53:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Aug 2016 13:13:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mercedes-luis-fuentes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>If you were to ask me to sum up my work, I would say;</p>]]></description>
-            <link>undefinedif-you-were-to-ask-me-to-sum-up-my-work-i-would-say/index.html</link>
+            <link>https://thegrid.ai/mercedes-luis-fuentes/if-you-were-to-ask-me-to-sum-up-my-work-i-would-say/index.html</link>
             <guid isPermaLink="false">fb1d7252-4ec2-4c82-a102-56b079a6acf4</guid>
-            <pubDate>Sun, 17 Apr 2016 09:52:13 GMT</pubDate>
+            <pubDate>Mon, 22 Aug 2016 13:13:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
